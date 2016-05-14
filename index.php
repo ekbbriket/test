@@ -1,5 +1,5 @@
 <?
 
-echo "prived-medved";
+echo "poka-medved";
 
 ?>
